@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://selmeczisz/github.io/traveller",
+  "homepage": "https://selmeczisz/github.io/traveller",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
